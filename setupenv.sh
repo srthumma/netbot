@@ -9,4 +9,7 @@ source venv/bin/activate
 pip3 install prettytable
 pip3 install scapy
 pip3 install boto3 
+pip3 install pyyaml
+
+
 

@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 export HOME=/home/netbot
 
 cd $HOME/netbot
